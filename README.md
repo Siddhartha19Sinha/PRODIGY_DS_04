@@ -1,5 +1,12 @@
-# PRODIGY_DS_04
-# 🌟SENTIMENT ANALYSIS OF AMAZON CUSTOMER REVIEWS✨ 
+# PRODIGY_DS_04 🌟
+# SENTIMENT ANALYSIS OF AMAZON CUSTOMER REVIEWS✨ 
+
+##
+![Image 1](https://github.com/Siddhartha19Sinha/PRODIGY_DS_04/blob/main/Image1.jpg)
+![Image 2](https://github.com/Siddhartha19Sinha/PRODIGY_DS_04/blob/main/Image2.jpg)
+![Image 3](https://github.com/Siddhartha19Sinha/PRODIGY_DS_04/blob/main/Image3.jpg)
+
+---
 
 📈🔍 This project focuses on analyzing and visualizing sentiment patterns in Amazon customer reviews to understand public opinion and attitudes towards products. The dataset used is the Amazon Customer Reviews Dataset available on Kaggle.
 
