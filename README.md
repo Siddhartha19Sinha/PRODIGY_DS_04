@@ -1,4 +1,5 @@
-# 🌟✨ Sentiment Analysis of Amazon Customer Reviews
+# PRODIGY_DS_04
+# 🌟SENTIMENT ANALYSIS OF AMAZON CUSTOMER REVIEWS✨ 
 
 📈🔍 This project focuses on analyzing and visualizing sentiment patterns in Amazon customer reviews to understand public opinion and attitudes towards products. The dataset used is the Amazon Customer Reviews Dataset available on Kaggle.
 
@@ -13,7 +14,7 @@ The [Amazon Customer Reviews Dataset](https://www.kaggle.com/datasets/thedevasta
 - **README.md**: This file providing an overview of the project.
   
 ## 🚀 Clone the repository:
-https://github.com/Debolina10Chatterjee/PRODIGY_DS_04.git
+https://github.com/Siddhartha19Sinha/PRODIGY_DS_04
 
 ## 💬 Sentiment Analysis
 
@@ -36,4 +37,4 @@ Various visualizations are created to understand sentiment distributions and wor
 
 The analysis reveals insights into customer sentiments towards Amazon products. Majority of the reviews are positive, indicating overall satisfaction with purchases. However, there are also critical reviews that need attention for improvement. The visualization of word frequencies and ratings provides further insights into customer feedback.
 
-For any questions or suggestions, feel free to contact Debolina Chatterjee at debolinachatterjee1011@gmail.com  (mailto:  debolinachatterjee1011@gmail.com).
+For any questions or suggestions, feel free to contact me at [siddhartha19sinha@gmail.com](mailto:siddhartha19sinha@gmail.com).
