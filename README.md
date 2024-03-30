@@ -2,7 +2,7 @@
 # SENTIMENT ANALYSIS OF AMAZON CUSTOMER REVIEWS✨ 
 
 ##
-![Image 1](https://github.com/Siddhartha19Sinha/PRODIGY_DS_04/blob/main/Image1.jpg)
+![Image 1](https://github.com/Siddhartha19Sinha/PRODIGY_DS_04/blob/main/Image1.webp)
 ![Image 2](https://github.com/Siddhartha19Sinha/PRODIGY_DS_04/blob/main/Image2.jpg)
 ![Image 3](https://github.com/Siddhartha19Sinha/PRODIGY_DS_04/blob/main/Image3.jpg)
 
